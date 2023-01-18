@@ -1,0 +1,22 @@
+@charset "UTF-8";
+
+/* 特産品紹介 */
+
+.topic{
+    display: flex;
+}
+
+.topic-item img{
+    height: 250px;
+    margin: 50px 120px 20px 120px;
+}
+
+.product-links{
+    margin-bottom: 50px;
+    font-size: small;
+    text-align: center;
+    font-weight: 10;
+    font-size: 2rem;
+    padding: 4%;
+    color: black;
+}

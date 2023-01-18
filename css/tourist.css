@@ -1,0 +1,90 @@
+@charset "UTF-8";
+
+.logo {
+  position: relative;
+}
+
+.logo p {
+  font-family: 'MS Pゴシック';
+  font-weight:  700;
+  text-align: center;
+  position: absolute;
+  top: 13%;
+  left: 50%;
+  color: white;
+  font-size: 80px;
+  -ms-transform: translate(-50%, -50%);
+  -webkit-transform: translate(-50%, -50%);
+  transform: translate(-50%, -50%);
+  margin: 0;
+  padding: 0;
+}
+
+.logo pa {
+  font-family: 'MS Pゴシック';
+  font-weight:  700;
+  text-align: center;
+  position: absolute;
+  top: 25%;
+  left: 50%;
+  color: white;
+  font-size: 80px;
+  -ms-transform: translate(-50%, -50%);
+  -webkit-transform: translate(-50%, -50%);
+  transform: translate(-50%, -50%);
+  margin: 0;
+  padding: 0;
+}
+
+.logo p1 {
+  position: absolute;
+  top: 63%;
+  left: 50%;
+  color: white;
+  font-size: 40px;
+  -ms-transform: translate(-50%, -50%);
+  -webkit-transform: translate(-50%, -50%);
+  transform: translate(-50%, -50%);
+  margin: 0;
+  width: 1000px;
+}
+
+.logo img {
+  width: 100%;
+  height: 650px;
+}
+
+.topic-item img {
+  width: 60%;
+} 
+
+.matu img{
+  width: 70%;
+  height: 380px;
+  margin-left: 30px;
+  margin-top: 10px;
+}
+
+.topic-item img{
+  height: 250px;
+  margin: 50px 120px 20px 120px;
+}
+
+.topic-item a1 {
+  color: black;
+}
+
+.topic-link{
+  margin-bottom: 50px;
+  font-size: large;
+  text-align: center;
+  font-weight: 1000;
+  font-size: 2rem;
+  color: #BA0C0C;
+}
+
+
+.topic-link a{
+  color:inherit;
+  text-decoration: none;
+}

@@ -1,0 +1,33 @@
+@charset "UTF-8";
+
+.humantitle{
+    text-align: center;
+    margin: 25px 50px 50px 50px;
+    border-bottom: 2px solid;
+}
+
+.human-introduction{
+    margin:40px 30px;
+}
+
+.human-subtitle{
+    text-align: center;
+    color: midnightblue;
+    font-size: 1.75rem;
+    font-weight: bold;
+    letter-spacing: 10px;
+    border-bottom: 1.5px midnightblue solid ;
+    border-top: 1.5px midnightblue solid;
+}
+
+.picture img{
+    height: 350px;
+}
+
+.picture{
+    margin-top: 50px;
+}
+
+.human-text{
+    font-size: 1.25rem;
+}

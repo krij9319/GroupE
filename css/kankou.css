@@ -1,0 +1,42 @@
+@charset "UTF-8";
+
+p {
+    font-family: 'MS Pゴシック';
+    font-weight:  700;
+    top: 25%;
+    left: 50%;
+ 
+    font-size: 30px;
+  
+    margin: 0;
+    padding: 0;
+  }
+
+  .line {
+    border-top: 1px solid black;
+  }
+
+  .main {
+	margin: 16px auto;
+    margin-right: 10px;
+	text-align: center;
+    position: absolute;
+    top: 35%;
+    left: 45%;
+}
+.main .text {
+    font-size: 20px;
+	text-align: left;
+}
+
+.home{
+    text-align: center;
+}
+
+/* p1 {
+    font-size: 10px;
+    text-align: center;
+    position: absolute;
+    top: 25%;
+    left: 50%;
+} */
