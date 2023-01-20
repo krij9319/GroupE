@@ -22,3 +22,21 @@ article{
 aside{
     width:20%;
 }
+
+
+.nav-link{
+    color:#BA0C0C;
+    font-size: large;
+     font-weight: 900;
+ 
+ }
+
+ .headtitle{
+    padding-top: 60px;
+    text-align: center;
+    color: #BA0C0C;
+}
+
+.greeting{
+    padding-top:25px;
+}
