@@ -13,6 +13,7 @@ body{
 .greeting{
     display:flex;
     justify-content: space-between;
+    padding-top:25px;
 }
 
 article{
@@ -35,8 +36,4 @@ aside{
     padding-top: 60px;
     text-align: center;
     color: #BA0C0C;
-}
-
-.greeting{
-    padding-top:25px;
 }
