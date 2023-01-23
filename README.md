@@ -17,4 +17,4 @@
 > introduction3.html
 > introduction4.html
 
-###画像やcssはそれぞれのファイルの中にあります。
+### 画像やcssはそれぞれのファイルの中にあります。
