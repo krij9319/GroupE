@@ -9,3 +9,12 @@ body{
     background-size: cover;
     font-family: serif;
 }
+
+.border-bottom9{
+    border-bottom:5px outset #ff838b
+}
+
+.hpb-dp-tb5-cell2 img{
+    padding-left: 60px;
+
+}
