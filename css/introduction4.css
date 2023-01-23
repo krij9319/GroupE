@@ -9,3 +9,35 @@ body{
     background-size: cover;
     font-family: serif;
 }
+
+.flex {
+    display: flex; 
+  }
+
+.image_size_m{
+	width: 400px;
+	height: 400px;
+  margin: 50px 100px;
+}
+
+p{
+  white-space:nowrap;
+  }
+
+.flex .text {
+    margin: 60px 0 0 0;
+    padding: 0;
+    font-size: 40px;
+  }
+
+.flex .hobby {
+    margin: 180px 0 0 -540px;
+    padding: 0;
+    font-size: 30px;
+  }  
+
+.flex .comment {
+    margin: 300px 0 0 -600px;
+    padding: 0;
+    font-size: 30px;
+  }
