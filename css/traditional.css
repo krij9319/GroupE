@@ -105,7 +105,7 @@ body{
 }
 
 .right{
-    margin-left:185px;
+    margin-left:170px;
     margin-top:135px;
     margin-right:65px;
 }
@@ -121,7 +121,7 @@ body{
 }
 
 .right2{
-    margin-left:185px;
+    margin-left:170px;
     margin-top:115px;
     margin-right:65px;
 }
@@ -142,8 +142,13 @@ body{
     margin-left:170px;
 }
 
+.left3 img{
+    width:500px;
+    height:500px;
+}
+
 .right3{
-    margin-left:185px;
+    margin-left:170px;
     margin-top:120px;
     margin-right:65px;
 }
@@ -152,4 +157,5 @@ body{
     padding-top:50px;
     text-align:left;
     display: flex;
+    padding-bottom:20px;
 }
