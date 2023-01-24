@@ -9,3 +9,77 @@ body{
     background-size: cover;
     font-family: serif;
 }
+
+.greeting{
+    display:flex;
+    justify-content: space-between;
+    padding-top:25px;
+}
+
+article{
+    width:70%;
+}
+
+aside{
+    width:20%;
+}
+
+
+.nav-link{
+    color:#BA0C0C;
+    font-size: large;
+     font-weight: 900;
+ 
+ }
+
+ .headtitle{
+    padding-top: 60px;
+    text-align: center;
+    color: #BA0C0C;
+}
+
+
+.picture img{
+    height: 250px;
+    margin-top: 200px;
+    margin-left: 150px;
+    padding-right: 400px;
+}
+
+.picture_p{
+    margin-left: 125px;
+    margin-top: 20px;
+    font-size: 1.25rem;
+    font-weight: 500;
+}
+.introduction_top{
+    border-bottom: 1.5px rgb(255, 77, 0) solid ;
+    margin-right: 50px;
+}
+
+th,td {
+    border: solid 1px;          
+}
+
+.introduction_table{
+    margin-left: 25px;
+    margin-top: 20px;
+    width:60%;
+    height: 40px;
+    font-size: 1.35rem;
+    font-weight: 500;
+}
+
+a{
+    color:inherit;
+    text-decoration: none;
+}
+.introduction_table td:first-child{
+    writing-mode: vertical-rl;
+    text-align: center;
+}
+
+.text-center{
+    margin-top: 100px;
+    margin-bottom: 50px;
+}
