@@ -9,3 +9,42 @@ body{
     background-size: cover;
     font-family: serif;
 }
+
+.nav-link{
+    color:#BA0C0C;
+    font-size: large;
+     font-weight: 900;
+ 
+ }
+
+ .headtitle{
+    padding-top: 60px;
+    text-align: center;
+    color: #BA0C0C;
+}
+
+.main{
+    padding-top:25px;
+    display: flex;
+}
+
+.left{
+    text-align: left;
+    margin-left:50px;
+}
+.right{
+    text-align:left;
+    margin-left:130px;
+    margin-right:50px;
+}
+
+.text-center{
+    margin-bottom: 20px;
+    margin-top:20px;
+}
+
+img{
+    margin-top:60px;
+    width: 400px;
+    height:400px;
+}
